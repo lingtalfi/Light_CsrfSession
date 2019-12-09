@@ -54,11 +54,20 @@ csrf_session:
 ```
 
 
+Related
+========
+- [Light_CsrfSimple plugin](https://github.com/lingtalfi/Light_CsrfSimple): the older version 
+- [Light_Csrf plugin](https://github.com/lingtalfi/Light_Csrf): the oldest version
+
 
 
 
 History Log
 =============
+
+- 1.0.1 -- 2019-12-09
+
+    - add related section in README.md
 
 - 1.0.0 -- 2019-11-27
 
