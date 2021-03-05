@@ -1,15 +1,19 @@
 1.0.0: 
-    - Ling:Chloroform:1.36.5
-    - Ling:Light:0.69.17
+    - Ling:Chloroform:1.36.6+
+    - Ling:Light:0.69.18+
 
 1.0.1: 
-    - Ling:Chloroform:1.36.5
-    - Ling:Light:0.69.17
+    - Ling:Chloroform:1.36.6+
+    - Ling:Light:0.69.18+
 
 1.0.2: 
-    - Ling:Chloroform:1.36.5
-    - Ling:Light:0.69.17
+    - Ling:Chloroform:1.36.6+
+    - Ling:Light:0.69.18+
 
 1.0.3: 
-    - Ling:Chloroform:1.36.6
-    - Ling:Light:0.69.18
+    - Ling:Chloroform:1.36.6+
+    - Ling:Light:0.69.18+
+
+1.0.4: 
+    - Ling:Chloroform:1.36.7+
+    - Ling:Light:0.69.30+
